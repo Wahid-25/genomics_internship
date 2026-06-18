@@ -1,1 +1,2 @@
 all cells have DNA 
+all cells have genetic information
